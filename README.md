@@ -1,2 +1,2 @@
-# dif_int_lang
-Running autotests for different interface languages.
+This repository was created exclusively for the task:
+https://stepik.org/lesson/237240/step/9?unit=209628
